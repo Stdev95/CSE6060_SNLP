@@ -37,4 +37,4 @@ Index
    5.2 simple text classifier
    5.3 vectorisers & cosine similarity
 
-   
+  
